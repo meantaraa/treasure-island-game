@@ -57,6 +57,6 @@ Congratulations, you win! 🏆
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, make enhancements, and submit a pull request.
 
-##🌟 Show Your Support
+## Show Your Support
 If you enjoy this project, don’t forget to give it a ⭐ on GitHub!
 
